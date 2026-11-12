@@ -126,8 +126,10 @@ python main.py
 
 ## 👨‍💻 Author
 
-**Maithilee Bodhe**  
-📧 maithileebodhe5@gmail.com 
+**Om — Data Scientist**  
+📧 omtambat284@gmail.com 
+🔗 [LinkedIn](https://www.linkedin.com/in/omtambat/)
 
 ---
 
+*Last updated: 2025-10-29*
